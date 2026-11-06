@@ -1,0 +1,10 @@
+.venv/
+target/
+build/
+*.o
+*.class
+node_modules/
+__pycache__/
+*.log
+.env
+# Fake secrets used for the lab must stay obviously fake and live only in src/vulnerable/ folders.
